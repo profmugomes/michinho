@@ -20,20 +20,8 @@ Michinho é um jogo clássico da minhoca onde você controla uma minhoca que dev
 ## Requisitos
 
 - Go 1.22 ou superior
-- Sistema operacional com suporte a GUI (Linux, macOS, Windows)
-
-## Instalação
-
-```bash
-# Clonar o repositório
-git clone https://github.com/profmugomes/michinho.git
-
-# Entrar no diretório
-cd michinho
-
-# Compilar e executar
-go run .
-```
+- Sistema operacional com suporte a GUI (Linux)
+- Graphics: GPU with OpenGL support (required for 3D acceleration)
 
 ## Controles
 
@@ -65,16 +53,40 @@ Michinho/
 1. **Nível 1**: Sem barreiras, velocidade padrão
 2. **Nível 2**: Com barreiras, velocidade aumentada
 
-## Desenvolvedor
-
-- **Nome**: Mugomes
-- **GitHub**: [profmugomes](https://github.com/profmugomes)
-
-## Licença
-
-Este projeto está sob a licença PolyForm Strict 1.0.0. Veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
-## Agradecimentos
+## Recursos Utilizados de Terceiros
 
 - [Fyne](https://fyne.io/) - Toolkit GUI para Go
 - [Chilanka](https://fonts.google.com/specimen/Chilanka) - Fonte utilizada no jogo
+
+## 👤 Author
+
+**Murilo Gomes Julio**
+
+🔗 [https://www.profmugomes.com.br](https://www.profmugomes.com.br)
+
+📺 [https://youtube.com/@profmugomes](https://youtube.com/@profmugomes)
+
+---
+
+## License
+
+Copyright (c) 2026 Murilo Gomes Julio. All Rights Reserved.
+
+This project is licensed under the PolyForm Strict License 1.0.0.
+
+### Summary
+
+This software is available for noncommercial use only.
+
+You may:
+- ✔ Use the software for noncommercial purposes.
+- ✔ Inspect and study the source code.
+
+You may not:
+- ✖ Use the software for commercial purposes.
+- ✖ Modify the software.
+- ✖ Redistribute the software.
+
+See the full license terms at [LICENSE.md](LICENSE.md).
+
+This summary is provided for convenience only.
